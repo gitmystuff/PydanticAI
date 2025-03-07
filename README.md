@@ -1,0 +1,2 @@
+# PydanticAI
+Stuff for class
